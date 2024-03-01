@@ -1,0 +1,8 @@
+head() => gives first five elements 
+tail() => gives data from last 
+
+sample() => give random data rows from the data
+
+shape() => give info of how many rows and columns 
+
+info() => gives the total non null and datatype of each column 
